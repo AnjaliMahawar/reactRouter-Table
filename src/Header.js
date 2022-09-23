@@ -32,6 +32,7 @@ export default function Header() {
 
                     <Link style={myStyle2} to="/data">Data</Link>
 
+                
                     
                 
             </ul>
